@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace PhysicsLib
+{
+    class PhysicsDemo
+    {
+        PhysicalReality ps;
+
+        public PhysicsDemo()
+        {
+            ps = new PhysicalReality();
+        }
+
+        public void populatateSystem()
+        {
+            
+        }
+    }
+}
